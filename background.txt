@@ -1,6 +1,7 @@
-<html> background: https://pbs.twimg.com/profile_images/568827575/cornsandwich_400x400.jpg no-repeat center center fixed; 
+html { 
+  background: https://pbs.twimg.com/profile_images/568827575/cornsandwich_400x400.jpg no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-</html>
+}
